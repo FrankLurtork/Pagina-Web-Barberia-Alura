@@ -1,0 +1,7 @@
+h son los heas, p los parrafos, strong son las negritas, em de empatia es el italic
+doctype le indica la version de html, el <html es para englobar todo el codigo de html 
+meta charset="UTF-8"> indica el diccionario a usar, practicamente el utf 8 tiene todos los caracteres salvo los especiales como chino
+lang define el idioma de la pagina web, si no se agrega el navegador no mostrara la opcion de traducir automaticamente
+
+CSS
+se integra el style en el tag para darle diseño
